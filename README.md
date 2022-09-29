@@ -5,6 +5,7 @@
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome/)
 - [Pi-Hole](https://github.com/pi-hole/pi-hole)
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+- [blocky](https://github.com/0xERR0R/blocky)
 
 ## 2. adblocker filter lists
 
